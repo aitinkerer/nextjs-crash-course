@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container mx-auto px-4 py-8">
       {/* Hero Section */}
       <section className="text-center py-12 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg mb-8">
-        <h1 className="text-5xl font-bold mb-4">Next.js Crash Course</h1>
+        <h1 className="text-5xl font-bold mb-4">🐱 Roman's Next.Js Crach Course</h1>
         <p className="text-xl mb-8">Learn React with Next.js through hands-on examples</p>
         <div className="flex justify-center gap-4">
           <Link href="/about">
